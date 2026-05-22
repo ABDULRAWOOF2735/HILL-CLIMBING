@@ -1,4 +1,4 @@
-<h1>ExpNo 5 : Implement Simple Hill Climbing Algorithm</h1> 
+<h1>Exp No 5 : Implement Simple Hill Climbing Algorithm</h1> 
 <h3>Name: ABDUL RAWOOF </h3>
 <h3>Register Number: 212224230003</h3>
 <H3>Aim:</H3>
